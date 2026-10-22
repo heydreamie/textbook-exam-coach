@@ -1,0 +1,15 @@
+# Course materials and student records stay outside the published skill.
+/exam-prep/
+/materials/
+/uploads/
+/answer-keys/
+
+# Local credentials, environments and logs.
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
