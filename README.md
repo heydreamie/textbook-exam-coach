@@ -30,13 +30,13 @@
 macOS / Linux：
 
 ```sh
-git clone https://github.com/mengqianyu1216/textbook-exam-coach.git "$HOME/.codex/skills/textbook-exam-coach"
+git clone https://github.com/heydreamie/textbook-exam-coach.git "$HOME/.codex/skills/textbook-exam-coach"
 ```
 
 Windows PowerShell：
 
 ```powershell
-git clone https://github.com/mengqianyu1216/textbook-exam-coach.git "$env:USERPROFILE\.codex\skills\textbook-exam-coach"
+git clone https://github.com/heydreamie/textbook-exam-coach.git "$env:USERPROFILE\.codex\skills\textbook-exam-coach"
 ```
 
 安装后在下一轮对话中使用 `$textbook-exam-coach`；如果当前客户端尚未刷新 Skills 列表，再新开一个对话。
